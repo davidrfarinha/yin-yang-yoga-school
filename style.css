@@ -138,7 +138,7 @@ header #hamburguer:hover {
 /* HERO SECTION ---------------------------------------------------------------------------------------- */
 #hero {
   position: relative;
-  background-image: url("../images/hero2.jpg");
+  background-image: url("resources/images/hero2.jpg");
   background-position-y: center;
   background-position-x: 60%;
   background-repeat: no-repeat;
